@@ -2,7 +2,8 @@ name: Run Episode Compiler
 
 on:
   push:
-    branches: [ main ]
+    paths:
+      - 'txtepisodes/**/s*e*script.txt'
 permissions: 
   contents: write
 jobs:
