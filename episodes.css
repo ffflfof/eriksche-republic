@@ -1,0 +1,73 @@
+body {
+    background-color: lightgrey;
+}
+li {
+    font-size: 1.3em;
+}
+h3 {
+    font-size: 1.5em;
+}
+h4 {
+    font-size: 1.3em;
+}
+ul#charlist {
+    border-color: black;
+    border-style:solid;
+    border-width: 3px;
+    background-color: rgba(128,128,128,0.4);
+    width:fit-content;
+    padding-right: 10%;
+}
+
+#text {
+    background-color: whitesmoke;
+    border-color: grey;
+    border-style: solid;
+    border-width: 2px;
+    width: fit-content;
+    max-width: 500px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.indent {
+    padding-left: 20px;
+    line-height: 1.4em;
+}
+
+#navbar {
+    background-color: rgba(128,128,128,0.4);
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    border-width: 0px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 15%;
+    padding-right: 15%;
+    box-sizing: border-box; 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+#navbar *:nth-child(1) {
+    text-align:left;
+}
+#navbar *:nth-child(2) {
+    text-align: center;
+}
+#navbar *:nth-child(3) {
+    text-align: right;
+}
+#navbar a {
+    font-size: 1.5em;
+    text-decoration: none;
+    color:black
+}
+#navbar:hover {
+    background-color: grey;
+}
+#navbar a:hover {
+    color:white
+}

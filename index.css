@@ -1,0 +1,52 @@
+body {
+    background-color: lightgrey;
+}
+
+#header {
+    text-decoration: none;
+    font-size: 1.4em;
+    font-family: 'Orbitron', 'Impact', sans-serif;
+    letter-spacing: 2px;
+    background-color: rgba(128,128,128,0.4);
+    text-align: center;
+    border-width: 0px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: black;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+h2 {
+    font-size: 1.5em;
+}
+div {
+    background-color: rgba(128,128,128,0.4);
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    width: 285px;
+}
+div a {
+    display: inline-block;
+    background-color: white;
+    text-decoration: none;
+    width: 30px;
+    color: black;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    font-size: 1.5em;
+}
+
+div a:hover {
+    background-color: lightgrey;
+    border-color: white;
+    color: white;
+}
