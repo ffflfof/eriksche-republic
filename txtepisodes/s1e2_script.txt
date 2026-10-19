@@ -1,0 +1,6 @@
+Episode 2: smth
+Characters:
+	someoe
+Script:
+act 1 smth:
+  smthelse
