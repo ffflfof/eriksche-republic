@@ -1,0 +1,113 @@
+Episode 1: Driving in bros car
+Characters:
+	flo
+	erik
+	teacher
+Script:
+act 1 school:
+	teacher: "if we now use the quadratic formula on this we can solve for x..."
+	flo: "Can the they just be over already i wanna go home"
+	flo: "How long until this lecture is done? maybe 10 minutes? I really wish we had a clock in class"
+	teacher: "... so as you can see x is 4 with that we fully solved this example now getting to the homework till thursday..."
+	flo: "Oh god not the homework at least i dont have a test this week"
+	teacher: "so thats everything for today ill see all of you on thursday"
+	*The school bell starts ringing*
+	flo: "lets go i can finally go home, what do i eat today?"
+	*desks rattling, chairs scraping, loud background chatter starts*
+	*scene of flo walking down three flights of stairs towards his locker*
+	flo: "wonder if i will manage to catch the bus home?"
+	flo: "get in there books i only need yall tmrw now its time to get home"
+	*slams locker and pulls out phone*
+	flo: "so how long do i have until the bus leaves?"
+	flo: "what 6 minutes? guess i will have to take the next one"
+	flo: "... and also isnt today a special day?"
+	*flo walking out of the school building towards the street that leads to the bus station*
+	flo: "wait a minute is that erik? What the hell is he doing here?"
+	*erik notices flo and gestures him to hurry up and get over there*
+	flo: "Bro, what are you doing here?"
+	erik: "I dont have school today cause they are overworking us that much"
+	flo: "oh right, i totaly forgot about that"
+	erik: "anyways hop in we gotta hit the road"
+	flo: "where are we going?"
+	erik: "anywhere really just gonna be driving around while talking so i can get the miles for my drivers licence"
+	flo: "I guess man so what you wanna yap about?"
+	erik: "uhmm... good question i lowkey dont know you just wanna listen to music and drive around for no reason?"
+	flo: "Thats what i thought you were gonna say so... yeah sure"
+	erik: "if thats how it is hop in man we have a lot of driving to do"
+	*erik sits on the drivers seat while flo gets in the car aswell siting on the passenger seat*
+act 2 le drive:
+	snippet 1: (lenght: around 1,5 minutes)
+	*erik starts the car and pulls out onto the street and steps on the gas*
+	erik: "oh shit i forgot to go to the gas station before comming here guess we gotta take a slight detour"
+	flo: "sure as long as you dont hit the curb again"
+	erik: "what you mean AGAIN I never in my entire life have hit the curb"
+	flo: "I dont believe you"
+	erik: "watch me"
+	*cut to us pulling into the gas station*
+	erik: "anyways how was school?"
+	flo: "ass, we had 3 back to back math lessons and ofc they where the last lessons of the day"
+	erik: "yeah thats trully shit you got any homework?"
+	*erik gets up from his seat opens the door and climbs out to fuel the car*
+	flo: "not really cause its till thursday so i guess i can just chill today"
+	erik: "well thats good so we can just drive around for like 3 hours"
+	flo: "yeah i guess i do gotta be home by latest 17:30"
+	erik: "yeah thats fine thats 2 hours"
+	*erik said while he payed at the gas pillar and getting back into the car and closing the door*
+	erik: "so lets enjoy every minute of it"
+	*camera zooms out as the car pulls out of the gas station and towords a country road (take me home to the place i belong vest verginia...)
+	snippet 2: (lenght: around 2 minutes)
+	*shot of us driving on a suburban road*
+	// stole a bit here cause i found it so funny 
+	flo: "By the way, I solved the necromancy formula earlier."
+	erik:"Did you fix the elemental ratio?"
+	flo: "Yeah. Dark magic handles the simulated control-core for the soul, but without max-tier Light magic to trigger the physical nerve reanimation, the skeleton just falls apart."
+	erik: "Which means single-element necromancers in standard fantasy are literally fraudsters who didn't read the documentation."
+	flo: "exactly so fantasy necromancers are legit just bums who did google how to necromancy like every programmer would"
+	erik: "So they are larping their own class?"
+	flo: "essentially
+	erik: "well i guess you could call them necrolarpers then"
+	flo: "true lmao"
+	snippet 3: (1,5 mniutes)
+	flo: "So what you wanna play later?"
+	erik: "idk maybe some JJS or maybe just genshin and chill?"
+	flo: "Soooo how about both?"
+	erik: "I choose option d typa shi"
+	flo: "what happened to option c?"
+	erik: "we cant use that cause cant you C the programming language C has the copyright for it and i dont wanna have to deal with a lawsuit"
+	flo: "I hate that this acctually makes sense"
+	erik: "of course it does i said it, Im always right except when i am not"
+	flo: "man fuck you"
+	erik: "no thank you"
+	erik: "anyways time we start driving towards your house seing as its already 16:50"
+	flo: "and it doesnt help that we are lowkey on the other side of town so yeah better get driving"
+	snippet 4: (2 minutes)
+	*cuts to the car standing before the drive way*
+	erik: "Bro wake the fuck up where here"
+	flo: "hmm w-what?"
+	erik: "where at your house dumbass get in there and get some sleep you seem to need it"
+	flo: "i guess?"
+	erik: "see ya in like 3 hours after i got home,took a shower and ate smth"
+	flo: "Yeah sounds good i will take a quick 2 hour nap then also eat and then call you sound good?"
+	erik: "yes so dont forget to set an alarm tho we cant have you oversleep again"
+	flo: "hear ya later, bro!"
+	erik: "see ya"
+act 3 le reincarnatione:
+	*me walking into my house while i watch erik pull out of the driveway and start driving away*
+	*flo opens the door walks in and throws his school bag into a corner*
+	*flo bassicly plunging into his soft bed*
+	flo: "ohhh this feels sooo good"
+	*flo slowly closing his eyes and drifting to sleep before the scene cuts over to erik driving*
+	erik: "of course the trafic light turns red the second i get close to it"
+	*scene of him looking at his phone to see the time while waiting for the trafic light to turn green again*
+	erik: "finally"
+	*him starting to drive again*
+	erik: "dont tell me this one is also gonna turn red right before i can get there" //he sees a yellow trafic light after just rounding a corner so he doesnt know if its about to turn green or red
+	erik: "thank god" // saw the light turn green
+	*hears truck horn go off as bright light floods the screen comming from the right*
+	erik: "well fuck... at least it was a good run" // him smiling in the dircetion of the truck before getting hit by the truck
+	*hard cut to flo still laying in bed for like 45 straight seconds*
+	*cut to black which is acctually just flos pov but he ofc still has his eyes closed*
+	*screen slowly getting lighter before the eyelids slowly open up and flo gets completly blinded*
+	*flo sees the white empty landscape*
+	flo: "what the hell..."
+	*scene lingers for around 4 seconds before hard cuting to black aka ending the episode*
