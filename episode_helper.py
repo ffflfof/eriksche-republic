@@ -20,7 +20,7 @@ if latest_file:
     current_file = latest_file
 else:
     exit()
-with open(f"txtepisodes/{current_file}", "r") as file:
+with open(f"./{current_file}", "r") as file:
     txt = file.readlines()
 with open(f"s{seasonnum}e{smth}.html", "w") as file:
     title = txt.pop(0)
