@@ -57,13 +57,13 @@ with open(f"s{seasonnum}e{smth}.html", "w") as file:
     file.write(f"\t<h3>{txt.pop(0).strip()}</h3>\n")
     file.write('\t<div id="text">\n')
     for i in range(len(txt)):
-        if not "\t" in txt[i]:
+        if not "\t" in txt[i] and not "    " in txt[i]:
             file.write(f"\t\t<h4>{txt[i].strip()}</h4>\n")
             file.write('\t\t<div class="indent">\n')
-        elif "\t" in txt[i] and (i == len(txt)-1 or not "\t" in txt[i+1]):
+        elif ("\t" in txt[i] or "    " in txt[i]) and (i == len(txt)-1 or (not "\t" in txt[i+1] and not "    " in txt[i+1])):
             file.write(f"\t\t\t<p>{txt[i].strip()}</p>\n")
             file.write("\t\t</div>\n")
-        elif "\t" in txt[i]:
+        elif ("\t" in txt[i] or "    " in txt[i]):
             file.write(f"\t\t\t<p>{txt[i].strip()}</p>\n")
     file.write("\t</div>\n")
     file.write("</body>\n")
