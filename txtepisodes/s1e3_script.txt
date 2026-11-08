@@ -134,5 +134,3 @@ act 2 News and Improvement:
 	flo: "oh yeah that could be it"
 	dad: "ok so its not anything bad right?"
 	flo: "hope so..."
-
-	
