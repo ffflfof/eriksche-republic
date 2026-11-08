@@ -1,0 +1,176 @@
+Episode 4: encounters and schedules
+Characters:
+	flo
+	erik
+	merchant
+	dad
+	mom(s)
+Script:
+act 1 travels and encounters:
+	*the scene opens on a completly grayish/black screen*
+	dad: "boys wake up you two will be leaving for the capital soon i didnt tell my friend to take you two with him for nothing now did I?"
+	*the scene slowly shifts to erik and flo getting up from their beds slowly*
+	erik: *yawning* "yeah, yeah dad well hurry up"
+	dad: "good me, your mothers and my friend will be having breakfast and chatting until you two are done and flo dont forget to take your daily dose of blood before you leave as well as pack some for the journey"
+	flo: "I wont forgot believe me"
+	dad: "good then im off"
+	*dad leaves the room and shuts the door behind him*
+	flo: "he sure was excited to have us leave wasnt he?"
+	erik: "if i had 2 beutifull wifes i would also want to have some alone time with them. so be sure to not be too suprised if we end up having a brothers or sisteres when we get back from studying in the capital"
+	flo: "very true... real quick tho should pack 10 liters of blood or 7?
+	erik: "7 is probably already too much if you ask me we will only be traveling for a week and you eat around 0.6 liters every day if im not wrong"
+	flo: "I guess i was preparing for a 'bizarre' adventure and this isnt one of those"
+	erik: "i see what you did there you sly wolf"
+	flo: "anyways i think im done packing, how about you?"
+	erik: "same you sure you got everything tho?"
+	*looks at flos notebook that is sitting on his desk in the corner*
+	flo: "oh so thats what i was forgetting i knew i was missing something but i couldnt put my finger on it thats why i just let the thought sit i was hopeing i would remember after breakfast and be able to get it really quickly before leaving"
+	erik: "but isnt that like your prized posetion how could you forget that?"
+	flo: "dementia i guess but if i have it already how bad is it gonna be in a thousand years"
+	erik: "very bad lets hope it develops backwords for you aka being able to remember more the older you get... or maybe you just ate to much old people blood from the blood bank"
+	flo: "could b..."
+	dad: "boys where are you its been 10 minutes and you still arnt down here what is taking so long"
+	erik: "nothing we are already on our way down"
+	*flo opens the door and drags his 2 bags down the stairs while erik is walking down with 3 bags of all possible things"
+	merchant: "good to see you two are all awake were leaving in 10 minutes so be sure you arnt forgetting anything important ill start preparing the carrage"
+	erik: *sleightly bows* "thank you again for taking us to the capital on such short notice"
+	merchant: "you never told me your kids are this polite"
+	dad: "erik is but flo is bassicly the total oposit he is a big goof ball if you ask me but he can have manners when he needs to"
+	merchant: "then lets hope academy life isnt to rought on him... oh that takes me back to when we were in the academy i met my wife there ill never forget that"
+	dad: "hopefully you also still remember the way to the capital as well as that day, old man"
+	merchant: "yeah i remember it like it was yesterday"
+	dad: "oh now stop remenising of the past you can do that while you drive to the capital"
+	merchant: "jeez just say that you want us 3 gone as soon as possible lucky charmer..."
+	*the merchant leaves the house and his footsteps can be heard getting quieter*
+	erik: "what does he mean by 'lucky charmer' dad?"
+	dad: "he probably means that im lucky because i have two such beutifull wifes"
+	flo: "checks out, well be of then if i remember ill write you a letter when we get to the capital"
+	dad: "great now get on out of here"
+	eriks mom: "bye kids we hope you pass your tests with great marks and manage to graduate in at max 7 years!"
+	*dad says as he shoves them out the front door with their bags*
+	flo: "men am i right?"
+	erik: "may i remind you that you are also eventually gonna be a man?"
+	flo: "yeah yeah man but why are you so serious since we got here you werent like this before?"
+	erik: "maybe because this can be dangerous i heard we are traveling through a very dangerous forest after all..."
+	flo: "nonsense the creatures there are only active at certain times of the month and right now isnt one of them"
+	erik: "your right it is near the end of the month and they are usually only active near the beginning of the month"
+	*they say while loading their bags in the carriage and getting in*
+	merchant: "dont worry boys i know this region like the back of my pocket"
+	flo: "but your pants dont have a pocket"
+	merchant: "metaphoricly speaking not litterally"
+	erik: "well them in relieved... i do have a question tho how long have you known our father"
+	*erik asks as the carriage slowly starts rolling*
+	merchant: "oh we go all the way back to childhood we where neighbours in this village up until my family left for the capital for better job opotunitys but as fate decided we would meet again at the academ..."
+	*the scene zooms out as there are multiple cuts where the wagon is traversing mutlie terrain types at verious times of day*
+	merchant: "...and thats how your dad met your moms"
+	erik: "wow that was a lot you two really are best friends"
+	merchant: "told you didnt i?"
+	erik: "wait why isnt flo saying anything?"
+	*erik turns his head towords the back of the carriage where he sees flo sleep with his notebook on his lap*
+	erik: "flo wake up for gods sake how could you have already fallen asleep?"
+	flo: "hmmm..." *he says as he rubs his eyes*
+	erik: "wake up idiot we have to set up camp soon"
+	flo: "oh yeah... i remember i was just thinking about a new spell and totaly dosed off"
+	erik: "what spell where you thinking about this time another commicly large version of a already existing spell or another exploding fireball?"
+	flo: "that will be a secret... for now"
+	erik: "why are you always so misterious"
+	*flo leans in close to eriks left ear and wispers: "to farm aura" before returning to scribling in his notebook*
+	merchant: "alright boys we have arived lets set up camp here there is a nice river not to far from here so we can make a nice soup as a quick meal to warm us up"
+	erik: "thank you i was starting to feel a bit hungry"
+	flo: "Ill pass on this one i will stay guard while you to eat seing as i only eat for the taste of it not cause i need to"
+	merchant: "ok then i will make only two portions of soup"
+	*suddenly a distant howl of a wolf can be heard from the distance*
+	merchant: "oh god damn it i forgot today is a full moon meaning the vampire wolfs are active tonight"
+	merchant: "stay on guard everyone!"
+	erik: "guys we got stalkers"
+	*erik says as he point towords glowing red eyes near some bushes*
+	flo: "i got this"
+	erik: "dont tell me your gonna face a whole pack of wolfs alone your a goddamn kid"
+	flo: "but thats what ranged magic is for right?"
+	*he says while glowing black spikes rush out of the ground empaling the vampire woolfs while hes not even looking at them*
+	erik: "how.. when... did you cast that spell?"
+	flo: "while i asked you if this isnt what range magic is for?"
+	erik: "so your telling me you made that question a litteral magic chant?"
+	flo: "whaaaaattt that would be crazy i just did silent casting..."
+	merchant: "did you just say silent casting isnt that something only arch mages can do?"
+	flo: "what i though anyone can do it i just used the spell often enough so im able to manipulate the mana in the same way the chant would but using just raw mana control"
+	erik: "so thats why your never doing any spells during the day your mana was always exhausted from secretly practising duing the night but why didnt you do it duing the day with me?"
+	flo: "cause i get a spell mastery bonus as well as extra mana during the night so its burely more efficient"
+	erik: "cause of course thats your reason"
+	flo: "anyways lets get back to bussuiness i read about this race in a book before appearently they always send a scouting pack before their main force goes in for the kill as support"
+	erik: "so what do you say we do?"
+	flo: "simpel we go exterminate them"
+	erik: "but how would you find them out in the woods?"
+	flo: "simple, old man you told us you know this forest liek your imaginary pocket so can you tell me if there are any caves nearby?"
+	merchant: "now that you mention it there is one around 100 meters north of here, wait what did you just call m..."
+	flo: "great news ill head there right away erik you stay here and make sure there isnt a smaller pack that plunders the carriage and kills the horses while im away"
+	erik: "got it"
+	*flo gets out of the carriage and starts heading north*
+	flo: "oh i found them they should really stop making so much noise if they dont want me to find them its bassic stealth logic if you ask me"
+	*more dark glowing spikes appear all over the cave walls impaling more wolfs*
+	flo: "that should be all of them but ill head into the cave just to make sure"
+	*flo heads into the cave and spots a few vampire wolf cubs near the back of the cave*
+	flo: "well i cant kill these that would ruin the danger in this region but first i will appraise these i always wanted a wolf as a pet"
+	*flo uses appraise on the cubs one by one at the 4rth one he sees something interresting...*
+	flo: "shapeshifting? now thats a usefull skill to have i will adopt you and as reward for your usefullness i will leave some of my blood reserves here for them to not die of hunger"
+	*flo picks up the cub and even tho it is barking at him and trying to bite him he returns back to camp with it*
+	erik: "your back and you have brought a vampire wolf cub?"
+	flo: "if i may introduce this will be my familair he has a very usefull unique skill that i will probably never find again so i decided to adopt him"
+	erik: "of course you did"	
+	merchant: "did you subdue all of them?"
+	flo: "yes we should be able to go to bed now"
+	erik: "good night then"
+	flo: "good night"
+	merchant: "good night to you two as well"
+	*the scense cuts to them arriving outside the capital walls just before the main entry checkpoint*
+act 2 The academy:
+	merchant: "ill drop you two off here and head over to the village next over"
+	erik: "thank you for everything your stories where a lot of fun to listen to"
+	merchant: "oh stop im gonna blush"
+	flo: "can i have a quick minute i need to feed my floof real quick and i dont wanna interrupt him"
+	merchant: "fine but hurry up i gotta go"
+	flo: "yeah, yeah he just got done anyways thanks for the ride and hope bussinuess goes well"
+	*erik and flo (with the vampire floof transformed into a shadowy puppy) walk throught the city gates*
+	erik: "so do you know where the academy is?"
+	flo: "why do you ask me of all people my sense of direction is worse than a tree, and he doesnt even care where he is going"
+	erik: "your right so i guess we gotta find a map?"
+	flo: "good idea but acctually wasnt it near the city center... i mean the academy?"
+	erik: "i think your right so i guess well just follow our noses"
+	flo: "then here we go!"
+	*the camera zooms upwards above the roofs as a timelaps of erik, flo and floof navigate the capital*
+	erik: "so this is it the academy grounds?"
+	flo: "appearently and the dorms are over there our room number is 2f54 so i guess second floor number 54?"
+	erik: "sounds about right didnt they say something about our lesson plans beign in there as well?"
+	flo: "I think so, so lets get over there"
+	*they slowly walk towards the dorms and walk up the inner stairs and towords room 2f54*
+	erik: "do you have the key?"
+	flo: "I though you got it?"
+	erik: "dumbass when should i have gotten the key from the receptionist when i was next to you the whole time?"
+	flo: "same how would you think i have it... fine ill go get it just take car of my floof real quick"
+	erik: "see ya in a second"
+	*scene of erik inspecting the floof trying to figure out whats so special about it*
+	flo: "im back"
+	erik: "then what are you waiting for unlock the door!"
+	flo: "yeah yeah it already is if you would just pay attention instead of staring at my floof all creepy"
+	erik: "fine you take him back then, probably better anyways"
+	flo: "you would assume correctly anyways"
+	*they walk into their room and towards their respective night stand seing as their are mysterious pieces of paper on it*
+	erik: "so this is our lesson plan i guess?"
+	flo: "I think you guessed correctly... so what classes do you have?"
+	erik: "Magic classes as well as geographics and politics"
+	flo: "thats a very interresting list of classes they picked for you but it works out perfectly for our plan"
+	erik: "true but what are your classes"
+	flo: "yeah i should look at that i hope we share magic class"
+	erik: "same"
+	flo: "so my classes are... Alchemy, Counter-Espionage and Swordfighting??? no magic class how am i gonna learn necromancy?"
+	erik: "i got you bro, you teach me swordsplay and ill teach you magic theory, deal?"
+	flo: "sounds good but isnt trading knowledge about non basic classes against the rules here"
+	erik: "since when do you care about following rules?"
+	flo: "were here on a scholarship if they kick us out were strandet in the capital"
+	erik: "I guess for once you trully did use your brain just this once"
+	flo: "yes but truly just this once"
+	erik: "so what if we make it our little secret we could go to the roof of the abondended building we passed by on our way here?"
+	flo: "good idea i think that would work"
+	erik: "its a deal then?"
+	flo: "its a deal"
+	*the episode ends*
