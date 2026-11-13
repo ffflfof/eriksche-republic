@@ -1,0 +1,2 @@
+B = 1.06* M^0.55
+Total blood for 100% mastery = 10.6 * (average Mass)^0.55
