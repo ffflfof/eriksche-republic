@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'notebook/inbox/*.txt'
+      - 'notebook/*.txt'
 
 # Required so the GitHub Actions bot can commit the updated JSON and delete the .txt file
 permissions:
