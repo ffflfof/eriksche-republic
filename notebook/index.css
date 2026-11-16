@@ -98,3 +98,8 @@ body {
     margin: 15px auto;
     display: block;
 }
+
+a {
+    text-decoration: none;
+    color: #222;
+}
