@@ -25,7 +25,7 @@ jobs:
           python-version: '3.12'
 
       - name: Run Notebook Parser Script
-        run: python notebook/update_notebook.py
+        run: python update_notebook.py
 
       - name: Commit and push updated JSON
         run: |
