@@ -102,5 +102,5 @@ body {
 a {
     text-decoration: none;
     color: #222;
-    border-bottom: solid #222;
+    border-bottom: 2px solid #222;
 }
