@@ -1,0 +1,15 @@
+Tuesday the 05.09.437 p.f.h.k
+Day 2 of Solving the Magic System:
+if rixm ubhkzg fwkvvk-cs nqdwgzfe -> fireball
+---------------------------------------------
+parts:
+rixm -> fire
+ubhkzg -> ?
+fwkvvk-cs -> fwkvvk cs -> ?
+nqdwgzfe -> ?
+----------------------------------------------
+same amount of letters...
+ceaser cipher doesnt work cause there are Is in the same place...
+vigenere cipher?
+
+key = <span class="censored">magic</span>
