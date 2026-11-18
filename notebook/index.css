@@ -1,5 +1,9 @@
 body { 
-    background: #1b1b1b;
+    background-image: "./images/throneroom.png"
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    filter: blur(3.5px);
     color: #ddd;
     font-family: cursive;
     display: flex;
