@@ -1,42 +1,59 @@
 body {
-    background-color: lightgrey;
+    background-image: url("./throneroom.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
 }
-
+.homepage-container {
+    /* Your translucent gray box styling */
+    background: rgba(25, 25, 28, 0.75);
+    backdrop-filter: blur(8px);
+    padding: 20px;
+    border-radius: 12px;
+    width: 600px; /* Or whatever width you want */
+}
 #header {
     text-decoration: none;
     font-size: 1.4em;
     font-family: 'Orbitron', 'Impact', sans-serif;
-    letter-spacing: 2px;
-    background-color: rgba(128,128,128,0.4);
+    letter-spacing: 4px;
+    background-color: rgba(255, 255, 255, 0.35);
     text-align: center;
     border-width: 0px;
     border-bottom: 2px;
     border-style: solid;
-    border-color: black;
+    border-color: white;
     position: fixed;
-    width: 100%;
+    width: 94.5%;
     top: 0px;
+    color: white;
 }
 h2 {
     font-size: 1.5em;
+    color: white;
 }
-div {
-    background-color: rgba(128,128,128,0.4);
-    border-color: black;
-    border-width: 2px;
+span div {
+    background-color: rgba(255, 255, 255, 0.35);
+    border-color: white;
+    border-width: 1px;
     border-style: solid;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
     width: 285px;
 }
-div a {
+div a{
     display: inline-block;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.5);
     text-decoration: none;
     width: 30px;
-    color: black;
-    border-color: black;
+    color: rgb(255, 255, 255);
+    border-color: white;
     border-width: 2px;
     border-style: solid;
     text-align: right;
@@ -44,9 +61,18 @@ div a {
     margin-bottom: 5px;
     font-size: 1.5em;
 }
-
+span > a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: white;
+    display: block;
+    transition: transform 0.2 ease;
+}
+span > a:hover {
+    transform: translateX(6px);
+}
 div a:hover {
     background-color: lightgrey;
-    border-color: white;
-    color: white;
+    border-color: black;
+    color: black;
 }
