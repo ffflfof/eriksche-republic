@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    filter: blur(3.5px);
+    backdrop-filter: blur(3.5);
     color: #ddd;
     font-family: cursive;
     display: flex;
