@@ -8,7 +8,7 @@ body {
     margin: 0;
     display: flex;
     justify-content: center; /* Centers horizontally */
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(5px);
 }
 .homepage-container {
     /* Your translucent gray box styling */
