@@ -46,6 +46,7 @@ with open(f"s{seasonnum}e{smth}.html", "w") as file:
     file.write('\t\t<a href="index.html">&lt; Home Page &gt;</a>\n')
     file.write('\t\t<span></span>\n')
     file.write("\t</div>\n")
+    file.write('\t<span class="episode-container">\n')
     file.write(f"\t<h1><br>{title.strip()}</h1>\n")
     file.write(f"\t<h3>{txt[0].strip()}</h3>\n")
     file.write('\t<ul id="charlist">\n')
@@ -66,6 +67,7 @@ with open(f"s{seasonnum}e{smth}.html", "w") as file:
         elif ("\t" in txt[i] or "    " in txt[i]):
             file.write(f"\t\t\t<p>{txt[i].strip()}</p>\n")
     file.write("\t</div>\n")
+    file.write("\t</span>\n")
     file.write("</body>\n")
     file.write("</html>\n")
 
