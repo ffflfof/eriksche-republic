@@ -19,7 +19,7 @@
             // Left side: if page 0 or missing, show blank cover/empty page
             document.getElementById('left-page').innerHTML = notebookData[leftNum] 
                 ? `<div>${notebookData[leftNum]}</div><div class="watermark">${leftNum}</div>` 
-                : `<div><div><br><br><h1 id="title"><a href="../index.html">"The Notebook"<a></h1><br><p class="covertext">Owner: F. Blackthorn</p></div><div class="watermark"><p>---</p></div></div>`;
+                : `<div><div><br><br><h1 id="title"><a href="../index.html">"The Notebook"<a></h1><br><p class="covertext">Owner: F. Blackthorn</p></div><div class="watermark"></div></div>`;
 
             // Right side: show content or empty if past the end
             document.getElementById('right-page').innerHTML = notebookData[rightNum] 
