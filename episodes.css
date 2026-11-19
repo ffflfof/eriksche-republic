@@ -8,7 +8,7 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(5px);
 }
 .episode-container {
     /* Your translucent gray box styling */
