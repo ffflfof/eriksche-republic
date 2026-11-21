@@ -1,0 +1,28 @@
+name: Auto-Update Wiki Index
+
+on:
+  push:
+    paths:
+      - 'wiki/articles/**' # Triggers whenever a txt file is added/changed inside articles
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run article updater script
+        run: python wiki/article_updater.py # Adjust path if your script is located elsewhere
+
+      - name: Commit and push changes if index updated
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add wiki/index.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update wiki search index [skip ci]" && git push)
