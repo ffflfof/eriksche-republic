@@ -1,0 +1,18 @@
+Shapeshift[skill] Mutation 1:
+    
+    Users:
+        floof
+    
+    Formular:
+        B = 1.06* M^0.55
+    
+    Breakdown:
+        B: The required amount of blood (in liters) or mana (in kilomana (kma))
+        M: The average mass of the spieces used in the calculation
+    
+    Mutation:
+        The standart way to increase mastery of it increasing everytime you transform into that spieces has mutated into increasing with how much blood or mana the user has "sucked" from that species 1 mastery lvl corosponding to 1% of B
+    
+    Mastery Explaination:
+        Mastery increases the stat conversion rate of the Shapeshift by 0.5% every level going from 25% to 75%. The Shapeshift will use the stats of the creature it has "sucked" the most blood/mana out off
+        Mastery as well as conversion rate does not effect skills
