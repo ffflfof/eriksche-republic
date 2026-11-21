@@ -19,6 +19,10 @@ body {
   backdrop-filter: blur(8px);
   min-height: 100vh;
   overflow-y: auto;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content:center;
 }
 
 /* Top Navigation Bar */
@@ -52,6 +56,7 @@ body {
 
 /* Main Content Area (leaves left & right margins open for background art) */
 #content-wrapper {
+  width: 80%;
   max-width: 850px; /* Controls how wide the middle box is */
   margin: 40px auto; /* Centers the box horizontally with space on top/bottom */
   padding: 30px 40px;
@@ -60,7 +65,6 @@ body {
   min-height: 80vh;
   height: auto;
   overflow: visible; /* Let the body or main wrapper handle scrolling */
-  margin-bottom: 50px;
 }
 
 /* Styling internal wiki links & search results */
