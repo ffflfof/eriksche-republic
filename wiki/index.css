@@ -18,6 +18,7 @@ body {
   background-attachment: fixed; /* Keeps background still while scrolling */
   backdrop-filter: blur(8px);
   min-height: 100vh;
+  overflow-y: auto;
 }
 
 /* Top Navigation Bar */
@@ -28,6 +29,8 @@ body {
   padding: 15px 30px;
   background-color: rgba(25, 25, 25, 0.75);
   border-bottom: 1px solid #3f3f46;
+  position: sticky;
+  top:0;
 }
 
 #home-link {
@@ -54,7 +57,10 @@ body {
   padding: 30px 40px;
   background-color: rgba(25, 25, 25, 0.75); /* Semi-transparent dark card */
   border-radius: 10px;
-  min-height: 75vh; /* Gives the page height even on short articles */
+  min-height: 80vh;
+  height: auto;
+  overflow: visible; /* Let the body or main wrapper handle scrolling */
+  margin-bottom: 50px;
 }
 
 /* Styling internal wiki links & search results */
