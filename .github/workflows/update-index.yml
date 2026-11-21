@@ -3,7 +3,7 @@ name: Auto-Update Wiki Index
 on:
   push:
     paths:
-      - 'wiki/articles/**' # Triggers whenever a txt file is added/changed inside articles
+      - 'wiki/articles/*.txt' # Triggers whenever a txt file is added/changed inside articles
 
 jobs:
   update-index:
