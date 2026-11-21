@@ -16,7 +16,7 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Keeps background still while scrolling */
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(5px);
   min-height: 100vh;
   overflow-y: auto;
   display:flex;
