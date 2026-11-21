@@ -1,0 +1,73 @@
+/* Reset & Page Background */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: #f0f0f0;
+  background-color: #18181b; /* Fallback dark color */
+  
+  /* Placeholder for your future background image */
+  background-image: url("../throneroom.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Keeps background still while scrolling */
+  backdrop-filter: blur(8px);
+  min-height: 100vh;
+}
+
+/* Top Navigation Bar */
+#navbar {
+  display: flex;
+  justify-content: space-between; /* E.R.I.P. left, search bar right */
+  align-items: center;
+  padding: 15px 30px;
+  background-color: rgba(25, 25, 25, 0.75);
+  border-bottom: 1px solid #3f3f46;
+}
+
+#home-link {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffffff;
+  letter-spacing: 2px;
+}
+
+#search-bar {
+  padding: 8px 14px;
+  width: 260px;
+  border-radius: 6px;
+  border: 1px solid #52525b;
+  background-color: #27272a;
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+/* Main Content Area (leaves left & right margins open for background art) */
+#content-wrapper {
+  max-width: 850px; /* Controls how wide the middle box is */
+  margin: 40px auto; /* Centers the box horizontally with space on top/bottom */
+  padding: 30px 40px;
+  background-color: rgba(25, 25, 25, 0.75); /* Semi-transparent dark card */
+  border-radius: 10px;
+  min-height: 75vh; /* Gives the page height even on short articles */
+}
+
+/* Styling internal wiki links & search results */
+#article-content a {
+  color: #60a5fa;
+  text-decoration: underline;
+}
+
+#article-content a:hover {
+  color: #93c5fd;
+}
+
+#results-list {
+  margin-top: 15px;
+  padding-left: 20px;
+}
